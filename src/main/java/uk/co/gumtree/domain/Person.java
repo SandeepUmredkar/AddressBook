@@ -6,7 +6,7 @@ public class Person {
     public String name;
     public String gender;
     public LocalDate birthDate;
-me tujhi baiko
+    private String trial;
     private Person(String name, String gender, LocalDate birthDate) {
         this.name = name;
         this.gender = gender;
