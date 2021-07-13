@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="860f6f2a-5f75-42fe-90c5-e87282e864e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules/uk.gumtree.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/uk.gumtree_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/uk.gumtree_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/uk/co/gumtree/domain/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/uk/co/gumtree/domain/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,5 +32,17 @@
       <updated>1622495014936</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
